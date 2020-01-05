@@ -163,18 +163,5 @@ bool D(){
     }
     return false;
 }
-//a=a+b-c*d
-//a=+0
-//a=!b
-//a=b+0
-//a=b++c
-//a=b**c
-//a=(((b)))
-//a=((b+c)*(d+e))
-//a=b+
-//a=b+c*d
-//a=b+c*d^e
-//a=(b+c)*(d+e))
-//a=((b+c)*(d+e)
-//
+
 
